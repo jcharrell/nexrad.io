@@ -1,2 +1,1 @@
-stop nexrad.io
-start nexrad.io
+vagrant ssh -c "sudo bash /vagrant/vagrant-config/restart-node.sh"
